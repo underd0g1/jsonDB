@@ -4,7 +4,7 @@ Just a simple json file that I use for practice.
 Credits go to typicode for the creation of this server. 
 all you need in order to replicate is a github account and a populated .json file 
 
-#Usage
+# Usage
 
   Create a repo on you own account
   
